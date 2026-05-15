@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Biomedical Engineer <a href='#'>Affiliations</a>. 
-M.Sc. and B.Sc. in Electrical and Computer Engineering
+subtitle: Ph.D. Candidate in Biomedical Engineer <a href='#'>Affiliations</a>.              M.Sc. and B.Sc. in Electrical and Computer Engineering
 
 profile:
   align: right
