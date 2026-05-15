@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Ph.D. Candidate in Biomedical Engineer & M.Sc. and B.Sc. in Electrical and Computer Engineering
 
 profile:
   align: right
