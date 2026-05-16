@@ -4,7 +4,7 @@ cv:
   email: jyoungpark28 AT gmail DOT com
   location: Hartford, CT
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: ""
 
   social_networks:
     - network: X
@@ -172,7 +172,7 @@ cv:
       - name: English
         summary: "Fluent"
 
-        - name: Spanish
+      - name: Spanish
         summary: "Learning with Duolingo. ¡Vámonos!"
 
     Interests:
