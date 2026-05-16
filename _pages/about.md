@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: It's Me
 permalink: /
-subtitle: Ph.D. Candidate in Biomedical Engineer <a href='#'>Affiliations</a>. M.Sc. and B.Sc. in Electrical and Computer Engineering
+subtitle: Ph.D. <i>(Expected in 2026)</i> in <b>Biomedical Engineer</b> & M.Sc. and B.Sc. in <b>Electrical and Computer Engineering</b>
 
 profile:
   align: right
@@ -28,25 +28,26 @@ latest_posts:
 ---
 
 I am a <span id="typed-text"></span>
+<b>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
   var typed = new Typed('#typed-text', {
     strings: [
       "Ph.D. Candidate in Biomedical Engineering.", 
       "Bioelectronics Researcher.", 
-      "Developer of Piezoelectric Sensing Devices."
+      "Developer of Piezoelectric Pressure Sensing Devices."
     ],
     typeSpeed: 50,
     backSpeed: 30,
     backDelay: 1500,
     loop: true
   });
-</script>
+</script></b>
+I bridge the gap between advanced electrical engineering and clinical applications. With a foundational background in 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 and 𝐁𝐢𝐨𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I specialize in developing biodegradable electronic systems that provide high-fidelity physiological insights before safely integrating into the body.
 
-Hello World!
+My unique value lies in my ability to navigate the entire device lifecycle: from the physics of sub-10nm semiconductor design, wireless PCB architecture, and cleanroom fabrication to complex in vivo validation.
 
-This is just test. let's see how it works!!
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Core Technical Expertise:
+- 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: Wireless circuit design (Bluetooth), PCB layout, and 3D TCAD simulation for semiconductor reliability.
+- 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐌𝐚𝐧𝐮𝐟𝐚𝐜𝐭𝐮𝐫𝐢𝐧𝐠: Electrospinning of polymers, micro-fabrication, and the development of piezoelectric scaffolds for tissue engineering.
+- 𝐁𝐢𝐨𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐕𝐚𝐥𝐢𝐝𝐚𝐭𝐢𝐨𝐧: Full execution of 𝘪𝘯 𝘷𝘪𝘷𝘰 studies (surgical models in mice, rats, and rabbits) and 𝘪𝘯 𝘷𝘪𝘵𝘳𝘰 studies (cell culture, molecular assays, and biochemical assays).
