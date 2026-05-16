@@ -120,14 +120,14 @@ cv:
         awarder: University of Connecticut
         summary: Awarded for outstanding research contributions with an invitation to present
 
-       - title: Schriever Education Award
+      - title: Schriever Education Award
         authors:
           - "Society Of Plastics Engineers"
         date: 2024-06
         awarder: Society Of Plastics Engineers
         summary: Awarded for outstanding graduate students
 
-       - title: SPE CT Section Scholarship
+      - title: SPE CT Section Scholarship
         authors:
           - "Society Of Plastics Engineers"
         date: 2022-06
