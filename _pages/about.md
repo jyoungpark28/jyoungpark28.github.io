@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -43,6 +39,8 @@ I am a <span id="typed-text"></span>
     loop: true
   });
 </script></b>
+
+
 I bridge the gap between advanced electrical engineering and clinical applications. With a foundational background in 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 and 𝐁𝐢𝐨𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I specialize in developing biodegradable electronic systems that provide high-fidelity physiological insights before safely integrating into the body.
 
 My unique value lies in my ability to navigate the entire device lifecycle: from the physics of sub-10nm semiconductor design, wireless PCB architecture, and cleanroom fabrication to complex in vivo validation.
