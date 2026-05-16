@@ -27,21 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
+I am a <span id="typed-text"></span>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-   <script>
-     var typed = new Typed('#typed-text', {
-       strings: [
-         "Ph.D. Candidate in Biomedical Engineering.", 
-         "Bioelectronics Researcher.", 
-         "Developer of Piezoelectric Sensing Devices."
-       ],
-       typeSpeed: 50,
-       backSpeed: 30,
-       backDelay: 1500,
-       loop: true
-     });
-   </script>
+<script>
+  var typed = new Typed('#typed-text', {
+    strings: [
+      "Ph.D. Candidate in Biomedical Engineering.", 
+      "Bioelectronics Researcher.", 
+      "Developer of Piezoelectric Sensing Devices."
+    ],
+    typeSpeed: 50,
+    backSpeed: 30,
+    backDelay: 1500,
+    loop: true
+  });
+</script>
 
 Hello World!
 
