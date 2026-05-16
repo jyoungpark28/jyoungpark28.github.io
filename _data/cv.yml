@@ -1,24 +1,14 @@
 cv:
   name: Jinyoung Park
-  label: Scientist
+  label: Ph.D. Candidate, Graduate Research Assistant
   email: jyoungpark28 AT gmail DOT com
   location: Hartford, CT
   image: ""
   summary: ""
 
-  social_networks:
-    - network: ""
-      username: ""
-    - network: ""
-      username: ""
-    - network: ""
-      username: ""
-
   address:
-    street: ""
     city: Hartford
     region: Connecticut
-    postalCode: ""
     countryCode: US
 
   sections:
@@ -29,8 +19,6 @@ cv:
         studyType: Doctor of Philosophy (expected in 2026)
         start_date: 2022
         end_date: 2026
-        score: ""
-        courses: ""
         highlights:
           - Pressure Sensor for Knee Joint Monitoring
           - Ultrasound Transducer for Brain Cancer Treatment
