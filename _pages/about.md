@@ -3,6 +3,20 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Candidate in Biomedical Engineer <a href='#'>Affiliations</a>. M.Sc. and B.Sc. in Electrical and Computer Engineering
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+   <script>
+     var typed = new Typed('#typed-text', {
+       strings: [
+         "Ph.D. Candidate in Biomedical Engineering.", 
+         "Bioelectronics Researcher.", 
+         "Developer of Piezoelectric Sensing Devices."
+       ],
+       typeSpeed: 50,
+       backSpeed: 30,
+       backDelay: 1500,
+       loop: true
+     });
+   </script>
 
 profile:
   align: right
