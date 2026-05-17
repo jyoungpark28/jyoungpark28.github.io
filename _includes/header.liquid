@@ -20,6 +20,9 @@
             {{- site.title -}}
           {% endif %}
         </a>
+<div class="header-socials" style="display: flex; align-items: center; margin-left: 15px; font-size: 1.2rem;">
+     {% include social.liquid %}
+   </div>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
         <div class="navbar-brand social">{% social_links %}</div>
