@@ -1,6 +1,6 @@
 ---
 layout: about
-title: It's Me
+title: #Me
 permalink: /
 subtitle: Ph.D. <i>(Expected in 2026)</i> in <b>Biomedical Engineer</b> & M.Sc. and B.Sc. in <b>Electrical and Computer Engineering</b>
 
