@@ -24,21 +24,20 @@ latest_posts:
 ---
 
 I am a <span id="typed-text"></span>
-<b>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
   var typed = new Typed('#typed-text', {
     strings: [
-      "Ph.D. Candidate in Biomedical Engineering.", 
-      "Bioelectronics Researcher.", 
-      "Developer of Piezoelectric Pressure Sensing Devices."
+      "<b>Engineer of Implantable Medical Devices</b>.", 
+      "<b>Researcher in Biodresorbable Bioelectronics</b>.", 
+      "<b>Developer of Continous Physiological Monitoring Systems</b>."
     ],
     typeSpeed: 50,
     backSpeed: 30,
     backDelay: 1500,
     loop: true
   });
-</script></b>
+</script>
 
 
 I bridge the gap between advanced electrical engineering and clinical applications. With a foundational background in 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 and 𝐁𝐢𝐨𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I specialize in developing biodegradable electronic systems that provide high-fidelity physiological insights before safely integrating into the body.
