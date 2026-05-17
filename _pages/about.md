@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a <span id="typed-text" style="color: #0056b3; font-size: 1.25em; text-shadow: 1px 1px 3px rgba(0, 85, 204, 0.4), -1px -1px 3px rgba(255, 255, 255, 0.8);"></span> <br>
+I am a <span id="typed-text" style="color: #0040ff; font-weight: bold; font-size: 1.25em; text-shadow: 0 0 8px rgba(0, 255, 255, 0.6), 0 0 15px rgba(0, 170, 255, 0.4);"></span> <br>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
   var typed = new Typed('#typed-text', {
@@ -39,7 +39,7 @@ I am a <span id="typed-text" style="color: #0056b3; font-size: 1.25em; text-shad
   });
 </script>
 
-<br>
+<br><br>
 I bridge the gap between advanced electrical engineering and clinical applications. With a foundational background in 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 and 𝐁𝐢𝐨𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I specialize in developing biodegradable electronic systems that provide high-fidelity physiological insights before safely integrating into the body.
 
 My unique value lies in my ability to navigate the entire device lifecycle: from the physics of sub-10nm semiconductor design, wireless PCB architecture, and cleanroom fabrication to complex in vivo validation.
