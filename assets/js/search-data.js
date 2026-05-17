@@ -479,13 +479,6 @@ ninja.data = [{
           window.open("mailto:%6A%79%6F%75%6E%67%70%61%72%6B%32%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -497,7 +490,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/jin-y-park/", "_blank");
         },
       },{
       id: 'light-theme',
