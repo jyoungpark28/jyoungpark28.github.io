@@ -1,8 +1,8 @@
 <header>
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
-    <div class="container">
-      {% if page.permalink != '/' %}
+    <div class="container" style="display: flex; align-items: center;">
+     
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
             {% if site.first_name %}
@@ -20,13 +20,10 @@
             {{- site.title -}}
           {% endif %}
         </a>
-<div class="header-socials" style="display: flex; align-items: center; margin-left: 15px; font-size: 1.2rem;">
-     {% include social.html %}
-   </div>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
-      {% endif %}
+     <!-- 2. Always show social icons right next to it -->
+      <div class="navbar-brand social" style="margin-left: 15px; font-size: 1.2rem; display: flex; align-items: center;">
+       {% social_links %}
+     </div>
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
