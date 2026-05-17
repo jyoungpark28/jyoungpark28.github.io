@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a <span id="typed-text" style="color: #00ffff; font-size: 1.5em; text-shadow: 0 0 5px #00ffff, 0 0 15px #00aaff, 0 0 30px #00aaff;"></span>
+I am a <span id="typed-text" style="color: #0056b3; font-size: 1.25em; text-shadow: 1px 1px 3px rgba(0, 85, 204, 0.4), -1px -1px 3px rgba(255, 255, 255, 0.8);"></span>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
   var typed = new Typed('#typed-text', {
