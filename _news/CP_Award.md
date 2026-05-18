@@ -6,4 +6,4 @@ related_posts: false
 hide_day: true
 ---
 
-Received Conference Participation Award, <i>University of Connecticut</i>
+Received Conference Participation <b>Award</b>, <i>University of Connecticut</i>
