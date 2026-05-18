@@ -7,4 +7,5 @@ hide_day: false
 ---
 
 
-Student Travel Achievement Recognition (STAR) Award, <i>Society of Biomaterials</i>
+Received Student Travel Achievement Recognition (STAR) Award, <i>Society of Biomaterials</i><br>
+by the Orthopaedic Biomaterials Special Interest Group in recognition of the contribution: 'Implantable Pressure Sensor with Biodegradability and Single-ended Configuration for Post-Surgical Joint Loading Monitoring'
