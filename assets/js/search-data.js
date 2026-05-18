@@ -47,11 +47,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-conference-presentation-at-international-conference-on-electronics-information-and-communication-iceic-phuket-thailand-study-of-line-edge-roughness-with-without-interface-traps-in-stacked-nanowire-field-effect-transistor",
-          title: 'Conference Presentation at International Conference on Electronics, Information, and Communication (ICEIC), Phuket, Thailand...',
+            },},{id: "news-conference-poster-presentation-at-international-conference-on-electronics-information-and-communication-iceic-phuket-thailand-study-of-line-edge-roughness-with-without-interface-traps-in-stacked-nanowire-field-effect-transistor",
+          title: '[Conference] Poster Presentation at International Conference on Electronics, Information, and Communication (ICEIC), Phuket,...',
           description: "",
-          section: "News",},{id: "news-conference-presentation-at-device-research-conference-drc-ieee-high-density-multilayer-graphene-microelectrode-arrays-for-optogenetic-electrophysiology-in-human-embryonic-kidney-cells",
-          title: 'Conference Presentation at Device Research Conference (DRC), IEEE High-Density Multilayer Graphene Microelectrode Arrays...',
+          section: "News",},{id: "news-conference-oral-presentation-at-device-research-conference-drc-ieee-high-density-multilayer-graphene-microelectrode-arrays-for-optogenetic-electrophysiology-in-human-embryonic-kidney-cells",
+          title: '[Conference] Oral Presentation at Device Research Conference (DRC), IEEE High-Density Multilayer Graphene Microelectrode...',
           description: "",
           section: "News",},{id: "news-received-schriever-education-award-society-of-plastics-engineers",
           title: 'Received Schriever Education Award, Society of Plastics Engineers',
