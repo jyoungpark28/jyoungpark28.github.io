@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2024-07
+inline: true
+related_posts: false
+hide_day: true
+---
+
+Received Conference Participation Award, <i>University of Connecticut</i>
