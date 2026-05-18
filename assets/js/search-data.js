@@ -47,11 +47,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-schriever-education-award-society-of-plastics-engineers",
-          title: 'Received Schriever Education Award, Society of Plastics Engineers',
-          description: "",
-          section: "News",},{id: "news-received-conference-participation-award-university-of-connecticut",
-          title: 'Received Conference Participation Award, University of Connecticut',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-student-travel-achievement-recognition-star-award-society-of-biomaterials",
           title: 'Student Travel Achievement Recognition (STAR) Award, Society of Biomaterials',
