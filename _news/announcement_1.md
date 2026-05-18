@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2016-02-28
+date: 2026-03-25
 inline: true
 related_posts: false
-hide_day: true
+hide_day: false
 ---
 
 
-test
+Student Travel Achievement Recognition (STAR) Award, <i>Society of Biomaterials</i>
