@@ -47,7 +47,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-schriever-education-award-society-of-plastics-engineers",
+            },},{id: "news-conference-presentation-at-international-conference-on-electronics-information-and-communication-iceic-phuket-thailand-study-of-line-edge-roughness-with-without-interface-traps-in-stacked-nanowire-field-effect-transistor",
+          title: 'Conference Presentation at International Conference on Electronics, Information, and Communication (ICEIC), Phuket, Thailand...',
+          description: "",
+          section: "News",},{id: "news-received-schriever-education-award-society-of-plastics-engineers",
           title: 'Received Schriever Education Award, Society of Plastics Engineers',
           description: "",
           section: "News",},{id: "news-received-conference-participation-award-university-of-connecticut",
