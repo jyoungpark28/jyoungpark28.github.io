@@ -108,9 +108,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-real-time-knee-pressure-signal",
+          title: 'Real-time Knee Pressure Signal',
+          description: "Real-time Monitoring Using Matlab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-femoral-tunnel-3d-model",
