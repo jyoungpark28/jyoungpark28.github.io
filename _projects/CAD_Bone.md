@@ -2,8 +2,8 @@
 layout: page
 title: Femoral Tunnel 3D Model
 description: Using Solidworks and Nomad Sculpt
-importance: 1
-category: CAD Illustration
+importance: 2
+category: Work
 img: /assets/img/prj_bone.gif
 related_publications: true
 ---
