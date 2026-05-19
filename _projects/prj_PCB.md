@@ -4,7 +4,7 @@ title: PCB Citcuit Design
 description: Bluetooth/Amplifier/LDO/Voltage Divider
 img: assets/img/prj_PCB1.png
 importance: 1
-category: Hardware Prototyping
+category: Work
 ---
 
 
