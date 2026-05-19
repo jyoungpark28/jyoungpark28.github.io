@@ -40,6 +40,8 @@ I am a <span id="typed-text" style="color: #ffcc00; font-weight: bold; font-size
 </script>
 
 <br><br>
+<b>I am currently seeking full-time opportunities and am open to relocation!</b>
+<br><br>
 I bridge the gap between advanced electrical engineering and clinical applications. With a foundational background in 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 and 𝐁𝐢𝐨𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I specialize in developing biodegradable electronic systems that provide high-fidelity physiological insights before safely integrating into the body.
 
 My unique value lies in my ability to navigate the entire device lifecycle: from the physics of sub-10nm semiconductor design, wireless PCB architecture, and cleanroom fabrication to complex in vivo validation.
