@@ -108,11 +108,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-real-time-knee-pressure-signal",
-          title: 'Real-time Knee Pressure Signal',
-          description: "Real-time Monitoring Using Matlab",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-femoral-tunnel-3d-model",
           title: 'Femoral Tunnel 3D Model',
           description: "Using Solidworks and Nomad Sculpt",
@@ -123,6 +118,11 @@ ninja.data = [{
           description: "Bluetooth/Amplifier/LDO/Voltage Divider",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prj_PCB/";
+            },},{id: "projects-real-time-knee-pressure-signal",
+          title: 'Real-time Knee Pressure Signal',
+          description: "Real-time Monitoring Using Matlab",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prj_Signal/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
