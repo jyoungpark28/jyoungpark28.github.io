@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A Collection of My Projects.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [Hardware Prototyping, CAD Illustration, Data Analytics, Software]
 horizontal: false
 ---
