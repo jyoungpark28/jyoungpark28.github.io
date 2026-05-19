@@ -3,8 +3,8 @@ layout: page
 title: Real-time Knee Pressure Signal
 description: Real-time Monitoring Using Matlab
 img: assets/img/prj_Signal.gif
-importance: 1
-category: Data Analytics
+importance: 3
+category: Work
 ---
 
 
