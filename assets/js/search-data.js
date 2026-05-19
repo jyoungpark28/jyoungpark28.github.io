@@ -118,8 +118,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-femoral-tunnel-creation",
-          title: 'Femoral Tunnel Creation',
+            },},{id: "projects-femoral-tunnel-3d-model",
+          title: 'Femoral Tunnel 3D Model',
           description: "Using Solidworks and Nomad Sculpt",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CAD_Bone/";
