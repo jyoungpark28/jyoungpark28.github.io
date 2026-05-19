@@ -6,6 +6,7 @@ importance: 1
 category: CAD Illustration
 img: /assets/img/prj_bone.gif
 related_publications: true
+giscus_comments: true
 ---
 
 
@@ -24,6 +25,9 @@ related_publications: true
 <div class="caption">
     To illustrate the proposed surgical approach for the in vivo rabbit knee model, I developed a detailed 3D visualization of the procedure. The organic bone anatomy was initially sculpted using Nomad Sculpt. The resulting STL file was then imported into SolidWorks, where precise surgical and mechanical modifications—such as the femoral tunnel required for routing the sensor's lead wire—were engineered into the model.
 </div>
+
+
+{% cite AdvSci2026 %}
 
 
 
