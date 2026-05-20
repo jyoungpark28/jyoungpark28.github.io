@@ -2,7 +2,7 @@
 layout: page
 title: ICRS Score
 description: Evaluating the severity of articular cartilage injuries
-img: assets/img/prj_bonechan.png
+img: assets/img/prj_ICRS.png
 importance: 4
 category: Work
 ---
