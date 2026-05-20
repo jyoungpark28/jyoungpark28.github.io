@@ -103,16 +103,16 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-femoral-tunnel-3d-model",
           title: 'Femoral Tunnel 3D Model',
           description: "Using Solidworks and Nomad Sculpt",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CAD_Bone/";
+            },},{id: "projects-icrs-score",
+          title: 'ICRS Score',
+          description: "Evaluating the severity of articular cartilage injuries",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ICRS/";
             },},{id: "projects-pcb-citcuit-design",
           title: 'PCB Citcuit Design',
           description: "Bluetooth/Amplifier/LDO/Voltage Divider",
