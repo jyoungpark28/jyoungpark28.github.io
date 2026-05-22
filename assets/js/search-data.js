@@ -98,11 +98,6 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-femoral-tunnel-3d-model",
           title: 'Femoral Tunnel 3D Model',
           description: "Using Solidworks and Nomad Sculpt",
@@ -123,6 +118,11 @@ ninja.data = [{
           description: "Real-time Monitoring Using Matlab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prj_Signal/";
+            },},{id: "projects-ad5-3d-model",
+          title: 'Ad5 3D Model',
+          description: "Using Blender and Nomad Sculpt",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prj_ad5/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
