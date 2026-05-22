@@ -6,7 +6,7 @@ img: assets/img/prj_ICRS.png
 importance: 4
 category: Misc
 ---
-<div align="center">
+
 <b> ICRS Criteria </b>
 
 |   | Feature | Score |
@@ -36,7 +36,7 @@ category: Misc
 | IV. | Cartilage mineralization (calcified cartilage) |   |
 |   |     Normal | 3 |
 |   |   Abnormal/inappropriate location   | 0 |
-</div>
+{: style="margin-left: auto; margin-right: auto; width: auto;"}
 
 <div class="caption">
       The International Cartilage Repair Society (ICRS) score is the clinical standard for classifying cartilage injury severity and evaluating repair quality.
