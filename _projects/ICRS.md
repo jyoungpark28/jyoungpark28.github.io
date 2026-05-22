@@ -4,9 +4,9 @@ title: ICRS Score
 description: Evaluating the severity of articular cartilage injuries
 img: assets/img/prj_ICRS.png
 importance: 4
-category: Work
+category: Misc
 ---
-
+<div align="center">
 <b> ICRS Criteria </b>
 
 |   | Feature | Score |
@@ -36,6 +36,10 @@ category: Work
 | IV. | Cartilage mineralization (calcified cartilage) |   |
 |   |     Normal | 3 |
 |   |   Abnormal/inappropriate location   | 0 |
+</div>
 
+<div class="caption">
+      The International Cartilage Repair Society (ICRS) score is the clinical standard for classifying cartilage injury severity and evaluating repair quality.
+</div>
 
-
+This scoring framework was applied to evaluate rabbit femoral condyle cartilage one month post-implantation of our biodegradable joint pressure sensor, confirming excellent tissue compatibility.
