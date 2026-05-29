@@ -1,6 +1,6 @@
 ---
 layout: post
-title: -
+title: none
 date: 
 inline: false
 related_posts: false
