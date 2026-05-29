@@ -1,7 +1,7 @@
 ---
 layout: post
 title: none
-date: 
+date: none
 inline: false
 related_posts: false
 ---
