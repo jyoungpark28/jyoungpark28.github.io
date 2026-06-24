@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-24'
 papers:
   aY0YBpMAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Implantable Pressure Sensor with Biodegradability and Single-ended Configuration for Post-Surgical Joint Loading Monitoring
     year: '2026'
   aY0YBpMAAAAJ:2osOgNQ5qMEC:
-    citations: 150
+    citations: 152
     title: Highly piezoelectric, biodegradable, and flexible amino acid nanofibers for medical applications
     year: '2023'
   aY0YBpMAAAAJ:5nxA0vEk-isC:
@@ -62,7 +62,7 @@ papers:
     title: 'Process-Induced Random Variation in Stacked-Nanowire FET: Line Edge Roughness + Interface Traps'
     year: '2017'
   aY0YBpMAAAAJ:d1gkVwhDpl0C:
-    citations: 340
+    citations: 343
     title: Injectable and biodegradable piezoelectric hydrogel for osteoarthritis treatment
     year: '2023'
   aY0YBpMAAAAJ:eQOLeE2rZwMC:
@@ -82,7 +82,7 @@ papers:
     title: Study of Piezoelectric-Oxide FET Using Negative Capacitance Effect
     year: '2017'
   aY0YBpMAAAAJ:u-x6o8ySG0sC:
-    citations: 106
+    citations: 107
     title: Biodegradable piezoelectric skin-wound scaffold
     year: '2023'
   aY0YBpMAAAAJ:ufrVoPGSRksC:
