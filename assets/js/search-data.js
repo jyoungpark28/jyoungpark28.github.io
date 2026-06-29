@@ -99,6 +99,11 @@ ninja.data = [{
           description: "Evaluating the severity of articular cartilage injuries",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ICRS/";
+            },},{id: "projects-pedot-pss-coated-graphene-microelectrode-array-for-high-density-optogenetic-electrophysiology",
+          title: 'PEDOT:PSS-Coated Graphene Microelectrode Array for High-Density Optogenetic Electrophysiology',
+          description: "Cleanroom-fabricated graphene microelectrode array with electrochemical PEDOT:PSS coating, achieving sub-100 kΩ impedance at 28 μm pitch for high-SNR extracellular recording in an optogenetic validation platform.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prj_Graphene/";
             },},{id: "projects-pcb-design-for-a-subcutaneously-implantable-wireless-pressure-acquisition-system",
           title: 'PCB Design for a Subcutaneously Implantable Wireless Pressure Acquisition System',
           description: "Custom 3-layer PCB enabling charge amplification and Bluetooth telemetry from a biodegradable piezoelectric knee pressure sensor, implanted subcutaneously in a rabbit osteoarthritis model.",
