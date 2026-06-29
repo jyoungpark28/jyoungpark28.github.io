@@ -104,9 +104,9 @@ ninja.data = [{
           description: "Bluetooth/Amplifier/LDO/Voltage Divider",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prj_PCB/";
-            },},{id: "projects-real-time-knee-pressure-signal",
-          title: 'Real-time Knee Pressure Signal',
-          description: "Real-time Monitoring Using Matlab",
+            },},{id: "projects-real-time-wireless-pressure-monitoring-for-an-implantable-knee-sensor",
+          title: 'Real-time Wireless Pressure Monitoring for an Implantable Knee Sensor',
+          description: "Custom firmware and MATLAB application enabling real-time wireless acquisition and calibration of in vivo pressure data from an implantable knee sensor.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prj_Signal/";
             },},{id: "projects-ad5-3d-model",
