@@ -1,0 +1,48 @@
+---
+layout: page
+title: PEDOT:PSS-Coated Graphene Microelectrode Array for High-Density Optogenetic Electrophysiology
+description: Cleanroom-fabricated graphene microelectrode array with electrochemical PEDOT:PSS coating, achieving sub-100 kΩ impedance at 28 μm pitch for high-SNR extracellular recording in an optogenetic validation platform.
+img: assets/img/prj_PCB1.png
+importance: 3
+category: Work
+---
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prj_Graphene.png" title="Schematic Diagram" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (a) Electrochemical characterization before (black) and after PEDOT:PSS coating (red): EIS impedance and phase of a typical electrode, (b) EIS impedance at 1 kHz across all 13 electrodes, and (c) CV of a typical electrode at 1000 mV/s.
+</div>
+
+<br>
+<b>The Problem </b><br>
+High-density electrophysiology requires electrodes small enough to resolve individual cells but conductive enough to record signals without being buried in noise. Uncoated graphene electrodes at 28 μm pitch have impedances on the order of 2 MΩ at 1 kHz, too high for reliable extracellular recording. The engineering challenge was reducing that impedance by at least an order of magnitude without enlarging the electrode footprint or damaging the underlying graphene.
+
+<br>
+<b>Device Fabrication </b>
+The array was built on CVD-grown graphene wafers with 3 to 5 graphene layers, selected over monolayer graphene for lower sheet resistance. Graphene was one-time transferred to a Si/SiO2 substrate using the standard Cu-etching method. Electrodes were patterned at 28 μm pitch using O2-based reactive ion etching, contacted by evaporated Ti/Au layers, and passivated with a 4 μm SU-8 layer with 21 μm x 10 μm openings defining the effective electrode area. The SU-8 surface was then treated with O2 plasma to enhance hydrophilicity, which improved both the subsequent electroplating yield and cell adhesion in later testing steps. The completed array was wire-bonded onto a PCB and encapsulated in PDMS for handling.
+
+<br>
+<b>PEDOT:PSS Electroplating</b>
+Each electrode was coated individually using a three-electrode electrochemical setup with a Gamry Reference 600+, Pt wire counter electrode, and Ag/AgCl reference electrode in phosphate buffered saline. PEDOT:PSS was deposited by immersing the array in 400 μL deionized water containing 0.048 M PSS and 0.02 M EDOT monomer, injecting 2.1 mA/cm² from each graphene electrode across two consecutive 10-second periods, 20 seconds total deposition time per electrode.
+
+<br>
+<b>Electrochemical Results</b>
+After coating, 12 of 13 electrodes dropped from 2.00 ± 0.11 MΩ to 74 ± 13 kΩ at 1 kHz, a greater than 20-fold impedance reduction. One electrode showed only 3.5-fold reduction, consistent with localized graphene degradation during electroplating, a process yield issue identified and noted rather than excluded from the dataset. CV curves showed approximately one order of magnitude increase in current after coating, attributed to increased effective surface area from the PEDOT:PSS layer, which lowers charge transfer resistance and increases double-layer capacitance simultaneously.
+
+<br>
+<b>Optogenetic Validation</b>
+To validate recording performance in a biologically relevant context, HEK 293 cells were co-transfected with ChR2 opsins and jRCaMP1a calcium reporters and cultured on PDMS. Optogenetically responsive cells were identified by calcium imaging under 575/22 nm excitation at 0.5 frames per second. The array was aligned to responsive cells using a home-built lifting station with manual lab jack and positioning stage, then lowered into contact. Extracellular signals were sampled at 10 kHz using an Intan RHD2164 amplifier synchronized with the microscope, bandpass filtered at 0.1 to 3 kHz, with 60 Hz noise and DC offset removed by Intan interface software. Optogenetic stimulation at 470/40 nm evoked calcium transients, with the array resolving extracellular signals at SNR exceeding 20.
+
+<br>
+<b>Key Specifications</b>
+- Electrode pitch: 28 μm
+- Pre-coating impedance at 1 kHz: 2.00 ± 0.11 MΩ
+- Post-coating impedance at 1 kHz: 74 ± 13 kΩ
+- Impedance reduction: greater than 20-fold across 12 of 13 electrodes
+- Deposition time: 20 seconds per electrode
+- Recording sample rate: 10 kHz
+- SNR: greater than 20 in optogenetic validation
