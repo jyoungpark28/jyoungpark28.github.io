@@ -2,7 +2,7 @@
 layout: page
 title: PEDOT:PSS-Coated Graphene Microelectrode Array for High-Density Optogenetic Electrophysiology
 description: Cleanroom-fabricated graphene microelectrode array with electrochemical PEDOT:PSS coating, achieving sub-100 kΩ impedance at 28 μm pitch for high-SNR extracellular recording in an optogenetic validation platform.
-img: assets/img/prj_PCB1.png
+img: assets/img/prj_graphene1.png
 importance: 3
 category: Work
 ---
