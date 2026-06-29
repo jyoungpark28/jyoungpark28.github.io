@@ -7,7 +7,6 @@ importance: 3
 category: Work
 ---
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prj_Graphene.png" title="Schematic Diagram" class="img-fluid rounded z-depth-1" %}
@@ -18,12 +17,12 @@ category: Work
 </div>
 
 <br>
-<b>The Problem </b><br>
+<b>The Problem</b><br>
 High-density electrophysiology requires electrodes small enough to resolve individual cells but conductive enough to record signals without being buried in noise. Uncoated graphene electrodes at 28 μm pitch have impedances on the order of 2 MΩ at 1 kHz, too high for reliable extracellular recording. The engineering challenge was reducing that impedance by at least an order of magnitude without enlarging the electrode footprint or damaging the underlying graphene.
 
 <br>
 <br>
-<b>Device Fabrication </b><br>
+<b>Device Fabrication</b><br>
 The array was built on CVD-grown graphene wafers with 3 to 5 graphene layers, selected over monolayer graphene for lower sheet resistance. Graphene was one-time transferred to a Si/SiO2 substrate using the standard Cu-etching method. Electrodes were patterned at 28 μm pitch using O2-based reactive ion etching, contacted by evaporated Ti/Au layers, and passivated with a 4 μm SU-8 layer with 21 μm x 10 μm openings defining the effective electrode area. The SU-8 surface was then treated with O2 plasma to enhance hydrophilicity, which improved both the subsequent electroplating yield and cell adhesion in later testing steps. The completed array was wire-bonded onto a PCB and encapsulated in PDMS for handling.
 
 <br>
@@ -52,3 +51,5 @@ To validate recording performance in a biologically relevant context, HEK 293 ce
 - Deposition time: 20 seconds per electrode<br>
 - Recording sample rate: 10 kHz<br>
 - SNR: greater than 20 in optogenetic validation<br>
+
+
