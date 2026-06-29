@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Real-time Knee Pressure Signal
-description: Real-time Monitoring Using Matlab
+title: Real-time Wireless Pressure Monitoring for an Implantable Knee Sensor
+description: Custom firmware and MATLAB application enabling real-time wireless acquisition and calibration of in vivo pressure data from an implantable knee sensor.
 img: assets/img/prj_Signal.gif
-importance: 3
+importance: 1
 category: Work
 related_publications: true
 ---
@@ -20,7 +20,13 @@ related_publications: true
 </div>
 
 
-To enable real-time physiological monitoring of an implantable knee sensor, I developed the complete end-to-end software architecture for a wireless data aquisition system. This involved writing the low-level embedded firmware in C for an nRF52840 Bluetooth System-on-Chip (SoC) using SEGGER Embedded Studio to manage low-latency data packaging and wireless transmission. On the receiving end, I engineered a custom data acquisition application in MATLAB, building a graphical user interface (GUI) that processes the incoming digital stream, executes real-time calibration algorithms to convert raw electronic signals into physical pressure metrics, and visualizes the results on a live, dynamic plot.
+Monitoring joint load from an implanted sensor in a living animal requires solving two problems simultaneously: getting data off the implant reliably and converting raw sensor output into meaningful physical units in real time. This project addressed both.
+
+On the embedded side, I wrote firmware in C for an nRF52840 Bluetooth SoC using SEGGER Embedded Studio, managing low-latency data packaging and wireless transmission from the implant to an external receiver. The firmware was designed to maintain stable Bluetooth connectivity during in vivo recording sessions while minimizing transmission latency to preserve the fidelity of dynamic pressure waveforms during joint loading.
+
+On the receiving end, I developed a custom MATLAB application that processes the incoming digital stream and renders a live dynamic plot of joint pressure in real time. The sensor output had been pre-characterized against known external forces prior to implantation, with the resulting sensor output vs. force relationship following a linear regression with R² approaching ~99%. The MATLAB application applies this calibration function continuously, converting raw digital counts into physical pressure values on the fly so that joint loading can be interpreted directly during the recording session without post-processing.
+
+The result was a complete wireless acquisition pipeline, from implanted sensor to calibrated pressure trace, that operated reliably across chronic in vivo recording sessions in a rabbit osteoarthritis model.
 
 
 This technique was implemented to {% cite SciAdv2026 %}.
