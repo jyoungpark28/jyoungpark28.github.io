@@ -99,9 +99,9 @@ ninja.data = [{
           description: "Evaluating the severity of articular cartilage injuries",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ICRS/";
-            },},{id: "projects-pcb-citcuit-design",
-          title: 'PCB Citcuit Design',
-          description: "Bluetooth/Amplifier/LDO/Voltage Divider",
+            },},{id: "projects-pcb-design-for-a-subcutaneously-implantable-wireless-pressure-acquisition-system",
+          title: 'PCB Design for a Subcutaneously Implantable Wireless Pressure Acquisition System',
+          description: "Custom 3-layer PCB enabling charge amplification and Bluetooth telemetry from a biodegradable piezoelectric knee pressure sensor, implanted subcutaneously in a rabbit osteoarthritis model.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prj_PCB/";
             },},{id: "projects-real-time-wireless-pressure-monitoring-for-an-implantable-knee-sensor",
