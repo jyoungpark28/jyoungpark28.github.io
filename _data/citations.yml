@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-21'
 papers:
   aY0YBpMAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Implantable Pressure Sensor with Biodegradability and Single-ended Configuration for Post-Surgical Joint Loading Monitoring
     year: '2026'
   aY0YBpMAAAAJ:2osOgNQ5qMEC:
-    citations: 164
+    citations: 169
     title: Highly piezoelectric, biodegradable, and flexible amino acid nanofibers for medical applications
     year: '2023'
   aY0YBpMAAAAJ:5nxA0vEk-isC:
@@ -54,7 +54,7 @@ papers:
     title: High-Density Multilayer Graphene Microelectrode Arrays for Optogenetic Electrophysiology in Human Embryonic Kidney Cells
     year: '2020'
   aY0YBpMAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 11
     title: Current advances of biodegradable and biocompatible nanofiber-based materials for tissue engineering and drug delivery
     year: '2025'
   aY0YBpMAAAAJ:Y0pCki6q_DkC:
@@ -70,11 +70,11 @@ papers:
     title: 'Process-Induced Random Variation in Stacked-Nanowire FET: Line Edge Roughness + Interface Traps'
     year: '2017'
   aY0YBpMAAAAJ:d1gkVwhDpl0C:
-    citations: 362
+    citations: 370
     title: Injectable and biodegradable piezoelectric hydrogel for osteoarthritis treatment
     year: '2023'
   aY0YBpMAAAAJ:eQOLeE2rZwMC:
-    citations: 31
+    citations: 32
     title: Electrically Active Biomaterials for Stimulation and Regeneration in Tissue Engineering
     year: '2025'
   aY0YBpMAAAAJ:hqOjcs7Dif8C:
@@ -90,7 +90,7 @@ papers:
     title: Study of Piezoelectric-Oxide FET Using Negative Capacitance Effect
     year: '2017'
   aY0YBpMAAAAJ:u-x6o8ySG0sC:
-    citations: 114
+    citations: 118
     title: Biodegradable piezoelectric skin-wound scaffold
     year: '2023'
   aY0YBpMAAAAJ:ufrVoPGSRksC:
